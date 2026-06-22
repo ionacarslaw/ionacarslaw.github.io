@@ -11,6 +11,8 @@ My research interests include the following:
 
 # Publications
 
+Carslaw, I., Bárány, A., Kastner, I. & Steedman, M., (2026) “An LLM Investigation into Inherent and Structural Case Representation: a German Case Study”, Society for Computation in Linguistics 9(1). doi: [https://doi.org/10.7275/scil.4161](https://doi.org/10.7275/scil.4161)
+
 Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic Extraction of Clausal Embedding Based on Large-Scale English Text Data”, Society for Computation in Linguistics 8(1): 12. doi: [https://doi.org/10.7275/scil.3151](https://doi.org/10.7275/scil.3151)
 
 # Talks
