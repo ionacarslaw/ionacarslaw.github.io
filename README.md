@@ -17,6 +17,8 @@ Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic
 
 # Talks
 
+"LLMs hinder Linguistic Decolonisation" at _LELPGC_ (the University of Edinburgh - June 2026)
+
 "LLMs and Reflexive Binding" at _North East Syntax Seminar_ (the University of Aberdeen - June, 2024)
 
 # Posters
