@@ -17,13 +17,13 @@ Carslaw, I., Milton, S., Navarre, N., Qing, C. & Uegaki, W., (2025) “Automatic
 
 # Talks
 
-"LLMs hinder Linguistic Decolonisation" at _LELPGC_ (the University of Edinburgh - June 2026)
+"LLMs hinder Linguistic Decolonisation" at [_LELPGC_](https://pgc.lel.ed.ac.uk) (the University of Edinburgh - June 2026)
 
 "LLMs and Reflexive Binding" at _North East Syntax Seminar_ (the University of Aberdeen - June, 2024)
 
 # Posters
 
-"The Inherent-Structural Case Divide: An investigation into German morphological case representation" at _LELPGC_ (the University of Edinburgh - June, 2025)
+"The Inherent-Structural Case Divide: An investigation into German morphological case representation" at [_LELPGC_](https://pgc.lel.ed.ac.uk) (the University of Edinburgh - June, 2025)
 
 "LLMs and Reflexive Binding Intuitions: Do LLMs encode native speakers’ reflexive binding intuitions?" at _the Form-meaning Mismatches in Spoken and Visual Communication Summer School_ (the University of Göttingen - August, 2024)
 
@@ -39,12 +39,12 @@ Dissertation: "Parasitic Gaps: can they really be accounted for by sideward move
 
 # Teaching and Academic Volunteering 
 
-I tutor on the following courses taught at the University of Edinburgh:
+I have tutored on the following courses taught at the University of Edinburgh:
 
 - Linguistics and English Language 1A
 - Linguistics and English Language 1B
 
-I also ran CLING (a computational linguistics reading group) from 2024-2025, and was on the organising committee for Language Lunch (an informal poster session for language related research by the postgrad community at Edinburgh) from 2023-2024.
+I have also been on the organising committee of the [Linguistics and English Language Postgrad Conference](https://pgc.lel.ed.ac.uk) from 2025-2026; I ran CLING (a computational linguistics reading group) at the University of Edinburgh from 2024-2025; and I was on the organising committee for Language Lunch (an informal poster session for language related research by the postgrad community at Edinburgh) from 2023-2024.
 
 
 Disclaimer: _I do not give permission for this webpage to be data scraped nor do I give permission for any of the information on this page to be used in the process of training an LLM or ML model._
