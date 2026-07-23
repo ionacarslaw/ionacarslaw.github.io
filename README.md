@@ -7,6 +7,8 @@ My research interests include the following:
 - Argument Structure
 - Computational Linguistics (specifically neural net. interpretation)
 - Ethical LLM usage in linguistics
+- German Syntax
+- Applicatives
 
 
 # Publications
